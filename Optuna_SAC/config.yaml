@@ -1,0 +1,24 @@
+behaviors:
+  MoveToGoal:
+    hyperparameters:
+      batch_size: 246
+      buffer_init_steps: 10000
+      buffer_size: 776927
+      init_entcoef: 0.15018776764342132
+      learning_rate: 0.00023086791776406318
+      learning_rate_schedule: constant
+      save_replay_buffer: false
+      steps_per_update: 5
+      tau: 0.005
+    max_steps: 500000
+    network_settings:
+      hidden_units: 76
+      normalize: false
+      num_layers: 2
+    reward_signals:
+      extrinsic:
+        gamma: 0.9815223205231174
+        strength: 1.0
+    summary_freq: 500
+    time_horizon: 64
+    trainer_type: sac

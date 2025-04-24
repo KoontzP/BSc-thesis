@@ -1,0 +1,53 @@
+(venv) C:\Unity\Projects\Optuna>python OptunaSAC.py
+[I 2025-03-04 18:10:00,978] A new study created in memory with name: no-name-c09d35ba-152e-4f8b-9a38-2e6f7b894299
+[I 2025-03-04 19:22:03,340] Trial 0 finished with value: -3.3051575492341354 and parameters: {'learning_rate': 1.375405920189968e-05, 'gamma': 0.9986552423781597, 'entropy_coef': 0.07381961893487515, 'batch_size': 523, 'hidden_layer_size': 444, 'buffer_size': 820376}. Best is trial 0 with value: -3.3051575492341354.
+[I 2025-03-04 20:18:42,172] Trial 1 finished with value: 0.9361347068145804 and parameters: {'learning_rate': 0.0003182641382328822, 'gamma': 0.9327439042751943, 'entropy_coef': 0.07257024974440969, 'batch_size': 337, 'hidden_layer_size': 366, 'buffer_size': 328267}. Best is trial 1 with value: 0.9361347068145804.
+[I 2025-03-04 21:24:45,908] Trial 2 finished with value: -0.931644012944984 and parameters: {'learning_rate': 0.0002576987690066263, 'gamma': 0.9967568245661569, 'entropy_coef': 0.04135335868184391, 'batch_size': 471, 'hidden_layer_size': 263, 'buffer_size': 924507}. Best is trial 1 with value: 0.9361347068145804.
+[I 2025-03-04 22:45:43,354] Trial 3 finished with value: -2.138909090909091 and parameters: {'learning_rate': 3.9486732652692056e-05, 'gamma': 0.9529851580597857, 'entropy_coef': 0.03743809122336567, 'batch_size': 633, 'hidden_layer_size': 355, 'buffer_size': 508148}. Best is trial 1 with value: 0.9361347068145804.
+[I 2025-03-04 23:41:59,558] Trial 4 finished with value: 0.007998748435545197 and parameters: {'learning_rate': 4.823603474505913e-05, 'gamma': 0.9867635995883486, 'entropy_coef': 0.01884724500660091, 'batch_size': 351, 'hidden_layer_size': 344, 'buffer_size': 86512}. Best is trial 1 with value: 0.9361347068145804.
+[I 2025-03-05 00:49:04,967] Trial 5 pruned.
+[I 2025-03-05 02:33:40,655] Trial 6 finished with value: 2.2957370737073712 and parameters: {'learning_rate': 0.0005305245933098786, 'gamma': 0.9729376790141405, 'entropy_coef': 0.038133145247681466, 'batch_size': 951, 'hidden_layer_size': 283, 'buffer_size': 603479}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 03:09:12,125] Trial 7 pruned.
+[I 2025-03-05 03:42:25,992] Trial 8 finished with value: -1.0059247104247104 and parameters: {'learning_rate': 7.32862225565996e-05, 'gamma': 0.9064910396388425, 'entropy_coef': 0.05535698964150102, 'batch_size': 82, 'hidden_layer_size': 153, 'buffer_size': 799772}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 04:18:32,018] Trial 9 pruned.
+[I 2025-03-05 06:06:12,274] Trial 10 finished with value: 1.6811365795724456 and parameters: {'learning_rate': 0.0008304304234031682, 'gamma': 0.9754349578109927, 'entropy_coef': 0.19489005359263212, 'batch_size': 990, 'hidden_layer_size': 246, 'buffer_size': 562722}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 07:56:06,884] Trial 11 finished with value: 1.4569593023255822 and parameters: {'learning_rate': 0.000987186873549208, 'gamma': 0.9719725969304043, 'entropy_coef': 0.1948704755235907, 'batch_size': 1012, 'hidden_layer_size': 237, 'buffer_size': 523463}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 09:46:02,660] Trial 12 pruned.
+[I 2025-03-05 11:44:02,398] Trial 13 pruned.
+[I 2025-03-05 13:21:18,561] Trial 14 finished with value: 1.4045786516853935 and parameters: {'learning_rate': 0.0005119944749675887, 'gamma': 0.939895542414263, 'entropy_coef': 0.16022951429818466, 'batch_size': 816, 'hidden_layer_size': 458, 'buffer_size': 593791}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 15:00:35,209] Trial 15 pruned.
+[I 2025-03-05 16:26:52,956] Trial 16 pruned.
+[I 2025-03-05 18:08:13,909] Trial 17 pruned.
+[I 2025-03-05 19:32:05,551] Trial 18 pruned.
+[I 2025-03-05 21:13:54,533] Trial 19 finished with value: 1.7019251207729482 and parameters: {'learning_rate': 0.00012127573069474525, 'gamma': 0.9872412740566736, 'entropy_coef': 0.1485576362813749, 'batch_size': 907, 'hidden_layer_size': 402, 'buffer_size': 600715}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-05 22:43:36,935] Trial 20 pruned.
+[I 2025-03-06 00:25:51,827] Trial 21 pruned.
+[I 2025-03-06 02:09:13,746] Trial 22 pruned.
+[I 2025-03-06 03:58:16,573] Trial 23 pruned.
+[I 2025-03-06 05:39:02,351] Trial 24 pruned.
+[I 2025-03-06 07:10:00,046] Trial 25 pruned.
+[I 2025-03-06 08:43:46,816] Trial 26 finished with value: 0.09351363636363663 and parameters: {'learning_rate': 0.00016881507781338592, 'gamma': 0.9907222291348452, 'entropy_coef': 0.0904171339290425, 'batch_size': 732, 'hidden_layer_size': 402, 'buffer_size': 495400}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-06 10:21:19,676] Trial 27 pruned.
+[I 2025-03-06 12:01:13,278] Trial 28 pruned.
+[I 2025-03-06 13:48:52,433] Trial 29 pruned.
+[I 2025-03-06 15:44:51,740] Trial 30 pruned.
+[I 2025-03-06 17:39:39,171] Trial 31 pruned.
+[I 2025-03-06 19:19:23,965] Trial 32 finished with value: 1.1822884160756495 and parameters: {'learning_rate': 0.0009842869171391843, 'gamma': 0.9856324383835797, 'entropy_coef': 0.19260193195118636, 'batch_size': 871, 'hidden_layer_size': 326, 'buffer_size': 457382}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-06 21:10:31,068] Trial 33 pruned.
+[I 2025-03-06 22:57:19,702] Trial 34 pruned.
+[I 2025-03-06 23:59:40,540] Trial 35 finished with value: 1.7113298611111094 and parameters: {'learning_rate': 0.00038214567383352773, 'gamma': 0.9938485155497522, 'entropy_coef': 0.06528120210694413, 'batch_size': 427, 'hidden_layer_size': 379, 'buffer_size': 272589}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-07 01:01:39,711] Trial 36 finished with value: 0.01552466367712974 and parameters: {'learning_rate': 0.0003647563065745387, 'gamma': 0.9944499974079024, 'entropy_coef': 0.050310473163941764, 'batch_size': 424, 'hidden_layer_size': 391, 'buffer_size': 275204}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-07 01:57:16,738] Trial 37 finished with value: -0.9430137693631673 and parameters: {'learning_rate': 0.00022055011734267577, 'gamma': 0.9984259989679292, 'entropy_coef': 0.0308970238168358, 'batch_size': 358, 'hidden_layer_size': 374, 'buffer_size': 61356}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-07 02:43:59,201] Trial 38 pruned.
+[I 2025-03-07 03:56:25,375] Trial 39 pruned.
+[I 2025-03-07 04:43:26,076] Trial 40 finished with value: 1.1736764705882354 and parameters: {'learning_rate': 0.0004978977942211316, 'gamma': 0.9228911753097394, 'entropy_coef': 0.03151053509974632, 'batch_size': 246, 'hidden_layer_size': 278, 'buffer_size': 857783}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-07 05:44:17,166] Trial 41 finished with value: 1.875970449172577 and parameters: {'learning_rate': 0.0007088566772488625, 'gamma': 0.9689387497790564, 'entropy_coef': 0.1713156194634939, 'batch_size': 415, 'hidden_layer_size': 167, 'buffer_size': 633916}. Best is trial 6 with value: 2.2957370737073712.
+[I 2025-03-07 06:48:09,001] Trial 42 pruned.
+[I 2025-03-07 07:59:15,981] Trial 43 pruned.
+[I 2025-03-07 08:59:37,836] Trial 44 finished with value: 2.2975855039637603 and parameters: {'learning_rate': 0.00046759946516392183, 'gamma': 0.9847902438665549, 'entropy_coef': 0.14832095005450271, 'batch_size': 395, 'hidden_layer_size': 123, 'buffer_size': 624729}. Best is trial 44 with value: 2.2975855039637603.
+[I 2025-03-07 10:00:58,214] Trial 45 pruned.
+[I 2025-03-07 10:54:51,212] Trial 46 pruned.
+[I 2025-03-07 12:04:22,952] Trial 47 pruned.
+[I 2025-03-07 13:32:23,272] Trial 48 pruned.
+[I 2025-03-07 14:18:52,754] Trial 49 pruned.
+Best parameters found: {'learning_rate': 0.00046759946516392183, 'gamma': 0.9847902438665549, 'entropy_coef': 0.14832095005450271, 'batch_size': 395, 'hidden_layer_size': 123, 'buffer_size': 624729}

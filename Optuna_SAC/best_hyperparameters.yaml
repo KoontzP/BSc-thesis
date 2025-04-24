@@ -1,0 +1,6 @@
+batch_size: 395
+buffer_size: 624729
+entropy_coef: 0.14832095005450271
+gamma: 0.9847902438665549
+hidden_layer_size: 123
+learning_rate: 0.00046759946516392183

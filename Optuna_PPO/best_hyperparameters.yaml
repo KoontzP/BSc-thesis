@@ -1,0 +1,6 @@
+batch_size: 512
+buffer_size: 30720
+epochs: 40
+gamma: 0.9657565304412798
+hidden_layer_size: 384
+learning_rate: 3.4131624696535314e-05

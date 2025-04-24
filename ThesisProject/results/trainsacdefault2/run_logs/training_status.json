@@ -1,0 +1,16 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 349945,
+                "file_path": "results\\trainsacdefault2\\MoveToGoal\\MoveToGoal-349945.onnx",
+                "reward": null,
+                "creation_time": 1741691277.7278266,
+                "auxillary_file_paths": [
+                    "results\\trainsacdefault2\\MoveToGoal\\MoveToGoal-349945.pt"
+                ]
+            },
+            {
+                "steps": 399953,
+                "file_path": "results\\trainsacdefault2\\MoveToGoal\\MoveToGoal-399953.onnx",
+                "reward": 

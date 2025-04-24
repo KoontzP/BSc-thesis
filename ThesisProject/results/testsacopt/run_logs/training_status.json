@@ -1,0 +1,7 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 349995,
+                "file_path": "results\\testsacopt\\MoveToGoal\\MoveToGoal-349995.onnx",
+                "reward": 
